@@ -51,11 +51,17 @@ See tutorial video [here](https://youtu.be/3G8kS25oRRI?si=o8mkDPI3U5oV8UBL)
 Get your IoT Plant Monitoring System up and running in no time! 🌱⚡
 
 🛠 What You’ll Need:
+
 📟 ESP32 LoRa module
+
 🌾 HW-390 capacitive soil moisture sensor
+
 🌡 DHT11 temperature & humidity sensor
+
 🔋 Battery (for portable power)
+
 📡 LoRaWAN Gateway (e.g., Thinknode)
+
 💎 Free accounts on The Things Stack (TTS) and TagoIO
 
 3D Models:
@@ -66,12 +72,14 @@ Case Cup [here](https://drive.google.com/file/d/1jItS_1_Zx4TILf-dj8dBhA6uBDGttse
 
 Case Back [here](https://drive.google.com/file/d/1dJU65UFFDw4whuMo_ZQj6i-t7nW5yTFz/view?usp=drive_link)
 
-
-
 ⚡ Getting Started:
+
 🔗 Watch the Full Tutorial Video — Follow along for the complete step-by-step guide. 🎥🚀
+
 📥 Flash the ESP32 — Use the provided code in this repo to read sensor data and transmit it over LoRa.
+
 🌐 Set Up TTS — Register your ESP32 device and connect it to your LoRaWAN Gateway (free tier works perfectly!).
+
 📊 Integrate with TagoIO — Use the webhook integration to send data from TTS to TagoIO and visualize it on a real-time dashboard.
 
 And that’s it! Your smart plant monitoring system is live and sending data! 🌾📡
